@@ -1,3 +1,4 @@
+
 # Excess Death Archive
 
 Date | Source | Publication | Preview
